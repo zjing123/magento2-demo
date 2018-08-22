@@ -225,6 +225,7 @@ return [
         'Magento_WishlistAnalytics' => 1,
         'Magento_MultipleWishlistSampleData' => 1,
         'Magento_Worldpay' => 1,
+        'Mageplaza_HelloWorld' => 1,
         'Shopial_Facebook' => 1,
         'Temando_Shipping' => 1,
         'Vertex_Tax' => 1
